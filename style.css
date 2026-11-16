@@ -1,0 +1,34 @@
+ul{
+    color: pink;
+    list-style: square;
+}
+
+body{
+    background-image: url(kryto.jpg);
+}
+.gdf{
+    color:red;
+    text-align: center;
+}
+.gda{
+    color:aqua;
+    text-align: center;
+}
+.gdd{
+    color:chartreuse;
+    text-align: justify;
+}
+.gta{
+    color: blue;
+    text-align: left;
+}
+.gsa{
+    color:gold;
+    text-align: right;
+}
+table{
+    color: brown;
+}
+h1 {
+    color: darkorange;
+}
