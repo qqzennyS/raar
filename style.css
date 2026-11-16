@@ -32,3 +32,12 @@ table{
 h1 {
     color: darkorange;
 }
+#parent {
+    width: 400;
+    border: 3px bold red;
+}
+#child {
+    width: 400;
+    border: 3px bold blue;
+    margin: 50px;
+}
