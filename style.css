@@ -33,11 +33,18 @@ h1 {
     color: darkorange;
 }
 #parent {
-    width: 400;
-    border: 3px bold red;
+    width: 400px;
+    border: 3px solid red;
 }
 #child {
-    width: 400;
-    border: 3px bold blue;
+    height: 400px;
+    border: 3px dashed blue;
     margin: 50px;
+    background-color: yellow;
+}
+#child2{
+    height: 200px;
+    border: 10px double aquamarine;
+    margin: 30px;
+    background-color: white;
 }
